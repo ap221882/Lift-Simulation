@@ -16,3 +16,5 @@ class Lift {
     this.#level -= value;
   }
 }
+
+export default Lift;

@@ -1,0 +1,26 @@
+{
+  "name": "lift-simulation",
+  "version": "1.0.0",
+  "description": "Project- Lift Simulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ap221882/Lift-Simulation.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "realDebSquad"
+  ],
+  "author": "Ajay Pathak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ap221882/Lift-Simulation/issues"
+  },
+  "homepage": "https://github.com/ap221882/Lift-Simulation#readme",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
+}
